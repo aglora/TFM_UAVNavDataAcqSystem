@@ -14,6 +14,32 @@ Raspberry Pi Zero W board. The main objective is to provide a solution that allo
 between the sensor and the processing system, ensuring the correct collection and storage of telemetry for
 flight analysis.
 
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva1.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva2.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva3.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva4.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva5.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva6.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva7.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva8.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva9.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva10.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva11.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva12.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva13.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva14.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva15.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva16.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva17.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva18.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva19.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva20.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva21.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva22.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva23.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva24.PNG" width="700" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/Diapositiva25.PNG" width="700" />
+
 ##### INFORME DETALLADO
 La información completa puede consultarse en el documento TFM pdf.
 
@@ -22,7 +48,7 @@ More info about the project can be found on TFM_AGL.pdf
 ##### VÍDEO - RECOPILACIÓN  
 [![VIDEO](https://img.youtube.com/vi/aS-y6GUNe54/0.jpg)](https://www.youtube.com/watch?v=aS-y6GUNe54)
 
-<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/defensa.jpg" width="500" />
+<img src="https://github.com/aglora/TFM_UAVNavDataAcqSystem/blob/main/imgs/defensa.jpg" width="700" />
 
 # AGRADECIMIENTOS
 
